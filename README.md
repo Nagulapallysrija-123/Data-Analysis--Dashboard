@@ -7,7 +7,7 @@ An interactive sales dashboard built using **Power BI** to analyze 2022 sales da
 
 ## 📌 Project Objective
 
-This project aims to help Blinkit better understand their **sales performance**, **item categories**, **outlet types**, and **customer trends** through a clear and dynamic visual dashboard. Insights from this analysis can support planning and strategy for upcoming years like **2025 and 2056**.
+This project aims to help Blinkit better understand their **sales performance**, **item categories**, **outlet types**, and **customer trends** through a clear and dynamic visual dashboard. Insights from this analysis can support planning and strategy for upcoming years like **2025 and 2026**.
 
 ---
 
