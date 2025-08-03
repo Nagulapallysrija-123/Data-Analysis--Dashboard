@@ -63,17 +63,10 @@ This project aims to help Blinkit better understand their **sales performance**,
 
 ---
 
-## 💡 Future Scope
-
-- Add monthly breakdown and forecasting
-- Include customer segmentation
-- Add region-wise filters
-
----
 
 ## 📬 Contact
 
 For questions or collaborations:  
-📧 your.email@example.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/your-profile)
+📧 srijanagulapally@gmail.com 
+🔗 [LinkedIn](www.linkedin.com/in/srija-nagulapally)
 
