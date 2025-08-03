@@ -43,7 +43,7 @@ This project aims to help Blinkit better understand their **sales performance**,
 ## 🖼️ Dashboard Preview
 
 > *(Replace the path with your uploaded image path)*  
-![Blinkit Dashboard]()
+![Blinkit Dashboard](https://github.com/Nagulapallysrija-123/Data-Analysis--Dashboard/blob/main/Screenshot%202025-05-19%20120512.png)
 
 ---
 
